@@ -1,4 +1,5 @@
-# Microservice-Powered Architecture Overview
+# 24FS Advanced Software Engineering (ASE)
+This repository includes the semester project of the course ASE ([source repository](https://github.com/uzh-network-ninjas/ase-social-network)). The backend is written in `Python v3.8` and the frontend in `Vue` with `TypeScript`.
 
 This project implements a microservice-powered architecture
  utilizing Python microservices
@@ -9,6 +10,12 @@ This project implements a microservice-powered architecture
  and testing guidelines to help you get started and manage the development process effectively.
 
 ## [Wiki for detailed information](https://github.com/uzh-network-ninjas/ase-social-network/wiki)  
+
+## Screenshots
+![Map Overview](./ms-frontend/src/assets/ExampleImageMain.png)
+![Feed](./ms-frontend/src/assets/ExampleImageFeed.png)
+![Map Location](./ms-frontend/src/assets/ExampleImageMap.png)
+![Profile](./ms-frontend/src/assets/ExampleImageProfile.png)
 
 ## 🛠️ Setup Instructions
 
