@@ -13,8 +13,8 @@ This project implements a microservice-powered architecture
 
 ## Screenshots
 ![Map Overview](./ms-frontend/src/assets/ExampleImageMain.png)
-![Feed](./ms-frontend/src/assets/ExampleImageFeed.png)
 ![Map Location](./ms-frontend/src/assets/ExampleImageMap.png)
+![Feed](./ms-frontend/src/assets/ExampleImageFeed.png)
 ![Profile](./ms-frontend/src/assets/ExampleImageProfile.png)
 
 ## 🛠️ Setup Instructions
