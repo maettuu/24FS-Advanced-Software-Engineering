@@ -1,6 +1,9 @@
 # 24FS Advanced Software Engineering (ASE)
-This repository includes the semester project of the course ASE ([source repository](https://github.com/uzh-network-ninjas/ase-social-network)). The backend is written in `Python v3.8` and the frontend in `Vue` with `TypeScript`.
+This repository includes the semester project of the course ASE ([source repository](https://github.com/uzh-network-ninjas/ase-social-network)). The backend is written in `Python v3.8` using `MongoDB` and the frontend in `Vue` with `TypeScript`.
 
+Main packages: `FastAPI`, `pymongo`, `boto3`, `bson`, `sqlalchemy`, `passlib`, `jwt`, `logging`, `multiprocessing`, `pydantic`, `enum`, `logging_loki`, `unittest`, `pytest`, `vue`, `tailwindcss`, `requests`
+
+## Microservice-Powered Architecture
 This project implements a microservice-powered architecture
  utilizing Python microservices
  a Vue.js frontend
